@@ -1,0 +1,5 @@
+com.shield.android.CaptchaType:Com.Shield.Android:CaptchaType
+com.shield.android.RiskStatus:Com.Shield.Android:RiskStatus
+com.shield.android.ScreenResult:Com.Shield.Android:ScreenResult
+com.shield.android.Shield$LogLevel:Com.Shield.Android:Shield.LogLevel
+com.shield.android.ShieldException$Kind:Com.Shield.Android:ShieldException.Kind

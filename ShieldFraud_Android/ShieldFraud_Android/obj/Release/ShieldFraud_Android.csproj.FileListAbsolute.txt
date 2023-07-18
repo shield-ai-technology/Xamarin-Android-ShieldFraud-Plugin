@@ -1,0 +1,11 @@
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/bin/Release/ShieldFraud_Android.dll
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/bin/Release/ShieldFraud_Android.pdb
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/__AndroidLibraryProjects__.zip
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/ShieldFraud_Android.csproj.AssemblyReference.cache
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/stamp/_BuildLibraryImportsCache.stamp
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/class-parse.rsp
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/java-resolution-report.log
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/ShieldFraud_Android.csproj.CoreCompileInputs.cache
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/ShieldFraud_Android.dll
+/Users/akash/Documents/xamarin_android/ShieldFraud_Android/ShieldFraud_Android/obj/Release/ShieldFraud_Android.pdb

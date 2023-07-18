@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27;ANDROID_28;ANDROID_29;ANDROID_30;ANDROID_31;ANDROID_32;ANDROID_33</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.AdvertisingIdClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.BlockedDialog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.CaptchaType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.Constant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.IIsolatedService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.Internal.NativeUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.IShieldCallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.RiskStatus.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.ScreenResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.ScreenshotChecker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.Service.ShieldIsolatedService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.Shield.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.ShieldException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.ShieldFingerprintUseCase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.View.CaptchaDialog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Shield.Android.View.InternalBlockedDialog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

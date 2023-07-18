@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akash/Documents/xamarin_android/AndroidApp/AndroidApp/AndroidApp.csproj": {}
+  },
+  "projects": {
+    "/Users/akash/Documents/xamarin_android/AndroidApp/AndroidApp/AndroidApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akash/Documents/xamarin_android/AndroidApp/AndroidApp/AndroidApp.csproj",
+        "projectName": "AndroidApp",
+        "projectPath": "/Users/akash/Documents/xamarin_android/AndroidApp/AndroidApp/AndroidApp.csproj",
+        "packagesPath": "/Users/akash/.nuget/packages/",
+        "outputPath": "/Users/akash/Documents/xamarin_android/AndroidApp/AndroidApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/akash/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Com.Getkeepsafe.Relinker": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.AndroidX.Preference": {
+              "target": "Package",
+              "version": "[1.2.0.6, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
